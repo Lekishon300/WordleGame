@@ -44,6 +44,7 @@ GIF created with ...
 ## Notes
 
 Describe any challenges encountered while building the app.
+
 I couldn't get the top of the app where it is written "Wordle" look like the expected UI. 
 
 ## License
